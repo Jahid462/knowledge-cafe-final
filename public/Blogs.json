@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/NCwmmQc/programming.jpg",
+        "title": "The Secret Garden",
+        "author": "Alice Smith",
+        "author_img": "https://i.ibb.co/cCTjjTp/author.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 10,
+        "hash_tag": ["fiction", "gardening"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/Fhrm9nX/banner.jpg",
+        "title": "A Journey to the Stars",
+        "author": "Bob Johnson",
+        "author_img": "https://i.ibb.co/cCTjjTp/author.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": 14,
+        "hash_tag": ["science-fiction", "space"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/NCwmmQc/programming.jpg",
+        "title": "The Culinary Explorer",
+        "author": "Eva Davis",
+        "author_img": "https://i.ibb.co/cCTjjTp/author.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 5,
+        "hash_tag": ["cooking", "travel"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/Fhrm9nX/banner.jpg",
+        "title": "Intrigue and Deception",
+        "author": "James Wilson",
+        "author_img": "https://i.ibb.co/cCTjjTp/author.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": 8,
+        "hash_tag": ["mystery", "thriller"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/NCwmmQc/programming.jpg",
+        "title": "Adventures of a Nomad",
+        "author": "Linda Turner",
+        "author_img": "https://i.ibb.co/cCTjjTp/author.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 12,
+        "hash_tag": ["adventure", "travel"]
+    }
+]
+    
